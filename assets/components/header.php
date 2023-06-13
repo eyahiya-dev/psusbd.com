@@ -53,7 +53,7 @@
                             </ul>
                           </li>
                           <li>
-                            <a style="font-size: 30px;" href="#">সদস্যবৃন্দ</a>
+                            <a style="font-size: 30px;" href="members.php">সদস্যবৃন্দ</a>
                           </li>
                           <li>
                             <a style="font-size: 30px;" href="contact.php">যোগাযোগ</a>

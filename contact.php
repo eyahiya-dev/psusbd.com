@@ -133,8 +133,8 @@
 
         <!--Google Map Start-->
         <section class="google-map google-map-two">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5493.656746220916!2d89.6118658227935!3d25.649587663012145!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39fd335a97cddffd%3A0x46c03473cc6ff0c2!2sUlipur!5e0!3m2!1sen!2sbd!4v1686645388903!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="google-map__one" allowfullscreen ></iframe>
-
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d70952.60714350309!2d89.75158720394201!3d25.660331138647116!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39e2b3842dce200b%3A0x111e0fa079efba76!2sSaheber%20Alga!5e1!3m2!1sen!2sbd!4v1686658179381!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="google-map__one" allowfullscreen ></iframe>
+              
         </section>
         <!--Google Map End-->
 
