@@ -130,6 +130,25 @@
                     <div class="item">
                         <div class="team-one__single">
                             <div class="team-one__img">
+                                <img src="assets/images/members/motin.png" alt="আব্দুল মতিন প্রামাণিক">
+                                <div class="team-one__social">
+                                    <a href="#"><i class="fab fa-facebook"></i></a>
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                                    <a href="#"><i class="fab fa-instagram"></i></a>
+                                </div>
+                            </div>
+                            <div class="team-one__content">
+                                <h3 style="font-size: 30px; margin-top: -15px" class="team-one__name"><a href="#">আব্দুল মতিন প্রামাণিক</a></h3>
+                                <p style="font-size: 22px; margin-bottom: -15px" class="team-one__sub-title pt-3">উপদেষ্টা</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->                   
+                    <!--Team One Single End-->     
+                    <div class="item">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
                                 <img src="assets/images/members/samad master.jpg" alt="আব্দুস সমাদ মাষ্টার">
                                 <div class="team-one__social">
                                     <a href="#"><i class="fab fa-facebook"></i></a>
@@ -334,7 +353,7 @@
                     <div class="item">
                         <div class="team-one__single">
                             <div class="team-one__img">
-                                <img src="assets/images/members/abdur rohim badsha.jpg" alt="আব্দুর রহিম বাদশা">
+                                <img src="assets/images/members/abdur rohim badsha.png" alt="আব্দুর রহিম বাদশা">
                                 <div class="team-one__social">
                                     <a href="#"><i class="fab fa-facebook"></i></a>
                                     <a href="#"><i class="fab fa-twitter"></i></a>
@@ -372,6 +391,713 @@
             </div>
         </section>
         <!--Team One End-->
+
+        <!--Team One Start-->
+        <section class="team-carousel-page">
+            <div style="margin-top: -150px;" class="section-title text-center">
+                <!-- <span class="section-title__tagline">আমাদের সংগঠনের</span> -->
+                <h2 class="section-title__title">কর্মসংস্থান বিষয়ক সম্পাদকদের তালিকা</h2>
+            </div>        
+            <div class="container">
+                <div class="team-carousel thm-owl__carousel owl-theme owl-carousel carousel-dot-style" data-owl-options='{
+                    "items": 3,
+                    "margin": 30,
+                    "smartSpeed": 700,
+                    "loop":true,
+                    "autoplay": 8000,
+                    "nav":false,
+                    "dots":true,
+                    "navText": ["<span class=\"fa fa-angle-left\"></span>","<span class=\"fa fa-angle-right\"></span>"],
+                    "responsive":{
+                        "0":{
+                            "items":1
+                        },
+                        "768":{
+                            "items":2
+                        },
+                        "992":{
+                            "items": 3
+                        }
+                    }
+                }'>
+                    <!--Team One Single Start-->
+                    <div class="item">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/members/sajahan armi .png" alt="মোঃ শাহ-জাহান প্রামাণিক">
+                                <div class="team-one__social">
+                                    <a href="#"><i class="fab fa-facebook"></i></a>
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                                    <a href="#"><i class="fab fa-instagram"></i></a>
+                                </div>
+                            </div>
+                            <div class="team-one__content">
+                                <h3 style="font-size: 30px; margin-top: -15px" class="team-one__name"><a href="#">শাহ-জাহান প্রামাণিক আর্মি</a></h3>
+                                <p style="font-size: 22px; margin-bottom: -15px" class="team-one__sub-title pt-3">প্রধান সম্পাদক</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->     
+                    <div class="item">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/members/abut taleb.png" alt="মোঃ আবু তালেব">
+                                <div class="team-one__social">
+                                    <a href="#"><i class="fab fa-facebook"></i></a>
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                                    <a href="#"><i class="fab fa-instagram"></i></a>
+                                </div>
+                            </div>
+                            <div class="team-one__content">
+                                <h3 style="font-size: 30px; margin-top: -15px" class="team-one__name"><a href="#">মোঃ আবু তালেব</a></h3>
+                                <p style="font-size: 22px; margin-bottom: -15px" class="team-one__sub-title pt-3">সহকারী-সম্পাদক</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->
+                </div>                
+            </div>
+        </section>
+        <!--Team One End-->
+        <!--Team One Start-->
+        <section class="team-carousel-page">
+            <div style="margin-top: -150px;" class="section-title text-center">
+                <!-- <span class="section-title__tagline">আমাদের সংগঠনের</span> -->
+                <h2 class="section-title__title">পরিকল্পনা বাস্তবায়ন বিষয়ক সম্পাদকদের তালিকা</h2>
+            </div>        
+            <div class="container">
+                <div class="team-carousel thm-owl__carousel owl-theme owl-carousel carousel-dot-style" data-owl-options='{
+                    "items": 3,
+                    "margin": 30,
+                    "smartSpeed": 700,
+                    "loop":true,
+                    "autoplay": 8000,
+                    "nav":false,
+                    "dots":true,
+                    "navText": ["<span class=\"fa fa-angle-left\"></span>","<span class=\"fa fa-angle-right\"></span>"],
+                    "responsive":{
+                        "0":{
+                            "items":1
+                        },
+                        "768":{
+                            "items":2
+                        },
+                        "992":{
+                            "items": 3
+                        }
+                    }
+                }'>
+                    <!--Team One Single Start-->
+                    <div class="item">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/members/sirajul islam.png" alt="মোঃ সিরাজুল ইসলাম">
+                                <div class="team-one__social">
+                                    <a href="#"><i class="fab fa-facebook"></i></a>
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                                    <a href="#"><i class="fab fa-instagram"></i></a>
+                                </div>
+                            </div>
+                            <div class="team-one__content">
+                                <h3 style="font-size: 30px; margin-top: -15px" class="team-one__name"><a href="#">মোঃ সিরাজুল ইসলাম</a></h3>
+                                <p style="font-size: 22px; margin-bottom: -15px" class="team-one__sub-title pt-3">প্রধান-সম্পাদক</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->     
+                    <!--Team One Single Start-->
+                    <div class="item">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/members/solaiman.jpg" alt="মোঃ সোলাইমান">
+                                <div class="team-one__social">
+                                    <a href="#"><i class="fab fa-facebook"></i></a>
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                                    <a href="#"><i class="fab fa-instagram"></i></a>
+                                </div>
+                            </div>
+                            <div class="team-one__content">
+                                <h3 style="font-size: 30px; margin-top: -15px" class="team-one__name"><a href="#">মোঃ সোলাইমান</a></h3>
+                                <p style="font-size: 22px; margin-bottom: -15px" class="team-one__sub-title pt-3">সহ-সম্পাদক</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->     
+                    <div class="item">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/members/hares shikder.png" alt="মোঃ হারেস শিকদার">
+                                <div class="team-one__social">
+                                    <a href="#"><i class="fab fa-facebook"></i></a>
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                                    <a href="#"><i class="fab fa-instagram"></i></a>
+                                </div>
+                            </div>
+                            <div class="team-one__content">
+                                <h3 style="font-size: 30px; margin-top: -15px" class="team-one__name"><a href="#">মোঃ হারেস শিকদার</a></h3>
+                                <p style="font-size: 22px; margin-bottom: -15px" class="team-one__sub-title pt-3">সহকারী-সম্পাদক</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/members/minhazul-abedin.png" alt="মোঃ মিনহাজুল আবদীন">
+                                <div class="team-one__social">
+                                    <a href="#"><i class="fab fa-facebook"></i></a>
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                                    <a href="#"><i class="fab fa-instagram"></i></a>
+                                </div>
+                            </div>
+                            <div class="team-one__content">
+                                <h3 style="font-size: 30px; margin-top: -15px" class="team-one__name"><a href="#">মোঃ মিনহাজুল আবদীন</a></h3>
+                                <p style="font-size: 22px; margin-bottom: -15px" class="team-one__sub-title pt-3">সহকারী-সম্পাদক</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->
+                </div>                
+            </div>
+        </section>
+        <section class="team-carousel-page">
+            <div style="margin-top: -150px;" class="section-title text-center">
+                <!-- <span class="section-title__tagline">আমাদের সংগঠনের</span> -->
+                <h2 class="section-title__title">পরিকল্পনাকারী বিষয়ক সম্পাদকদের তালিকা</h2>
+            </div>        
+            <div class="container">
+                <div class="team-carousel thm-owl__carousel owl-theme owl-carousel carousel-dot-style" data-owl-options='{
+                    "items": 3,
+                    "margin": 30,
+                    "smartSpeed": 700,
+                    "loop":true,
+                    "autoplay": 8000,
+                    "nav":false,
+                    "dots":true,
+                    "navText": ["<span class=\"fa fa-angle-left\"></span>","<span class=\"fa fa-angle-right\"></span>"],
+                    "responsive":{
+                        "0":{
+                            "items":1
+                        },
+                        "768":{
+                            "items":2
+                        },
+                        "992":{
+                            "items": 3
+                        }
+                    }
+                }'>
+                    <!--Team One Single Start-->
+                    <div class="item">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/members/sakibul hasan.jpg" alt="মোঃ সাকিবুল হাসান">
+                                <div class="team-one__social">
+                                    <a href="#"><i class="fab fa-facebook"></i></a>
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                                    <a href="#"><i class="fab fa-instagram"></i></a>
+                                </div>
+                            </div>
+                            <div class="team-one__content">
+                                <h3 style="font-size: 30px; margin-top: -15px" class="team-one__name"><a href="#">মোঃ সাকিবুল হাসান</a></h3>
+                                <p style="font-size: 22px; margin-bottom: -15px" class="team-one__sub-title pt-3">প্রধান-সম্পাদক</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->     
+                    <!--Team One Single Start-->
+                    <div class="item">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/members/OMED ALI.jpg" alt="ওমেদ আলী">
+                                <div class="team-one__social">
+                                    <a href="#"><i class="fab fa-facebook"></i></a>
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                                    <a href="#"><i class="fab fa-instagram"></i></a>
+                                </div>
+                            </div>
+                            <div class="team-one__content">
+                                <h3 style="font-size: 30px; margin-top: -15px" class="team-one__name"><a href="#">মোঃ ওমেদ আলী</a></h3>
+                                <p style="font-size: 22px; margin-bottom: -15px" class="team-one__sub-title pt-3">সহকারী-সম্পাদক</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->     
+                    <div class="item">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/members/sirajul islam_plaanner.png" alt="মোঃ সিরাজুল ইসলাম">
+                                <div class="team-one__social">
+                                    <a href="#"><i class="fab fa-facebook"></i></a>
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                                    <a href="#"><i class="fab fa-instagram"></i></a>
+                                </div>
+                            </div>
+                            <div class="team-one__content">
+                                <h3 style="font-size: 30px; margin-top: -15px" class="team-one__name"><a href="#">মোঃ সিরাজুল ইসলাম</a></h3>
+                                <p style="font-size: 22px; margin-bottom: -15px" class="team-one__sub-title pt-3">সহকারী-সম্পাদক</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->
+                </div>                
+            </div>
+        </section>
+        <section class="team-carousel-page">
+            <div style="margin-top: -150px;" class="section-title text-center">
+                <!-- <span class="section-title__tagline">আমাদের সংগঠনের</span> -->
+                <h2 class="section-title__title">যোগাযোগ ও পরিবহন বিষয়ক সম্পাদকদের তালিকা</h2>
+            </div>        
+            <div class="container">
+                <div class="team-carousel thm-owl__carousel owl-theme owl-carousel carousel-dot-style" data-owl-options='{
+                    "items": 3,
+                    "margin": 30,
+                    "smartSpeed": 700,
+                    "loop":true,
+                    "autoplay": 8000,
+                    "nav":false,
+                    "dots":true,
+                    "navText": ["<span class=\"fa fa-angle-left\"></span>","<span class=\"fa fa-angle-right\"></span>"],
+                    "responsive":{
+                        "0":{
+                            "items":1
+                        },
+                        "768":{
+                            "items":2
+                        },
+                        "992":{
+                            "items": 3
+                        }
+                    }
+                }'>
+                    <!--Team One Single Start-->
+                    <div class="item">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/members/aminul islam.jpg" alt="আমিনুল ইসলাম বুলবুল">
+                                <div class="team-one__social">
+                                    <a href="#"><i class="fab fa-facebook"></i></a>
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                                    <a href="#"><i class="fab fa-instagram"></i></a>
+                                </div>
+                            </div>
+                            <div class="team-one__content">
+                                <h3 style="font-size: 30px; margin-top: -15px" class="team-one__name"><a href="#">মোঃ সাকিবুল হাসান</a></h3>
+                                <p style="font-size: 22px; margin-bottom: -15px" class="team-one__sub-title pt-3">প্রধান-সম্পাদক</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->     
+                    <!--Team One Single Start-->
+                    <div class="item">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/members/shipon.png" alt="মোঃ শিপন">
+                                <div class="team-one__social">
+                                    <a href="#"><i class="fab fa-facebook"></i></a>
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                                    <a href="#"><i class="fab fa-instagram"></i></a>
+                                </div>
+                            </div>
+                            <div class="team-one__content">
+                                <h3 style="font-size: 30px; margin-top: -15px" class="team-one__name"><a href="#">মোঃ শিপন</a></h3>
+                                <p style="font-size: 22px; margin-bottom: -15px" class="team-one__sub-title pt-3">সহকারী-সম্পাদক</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->     
+                    <div class="item">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/members/sirajul islam babu.png" alt="মোঃ সিরাজুল ইসলাম বাবু">
+                                <div class="team-one__social">
+                                    <a href="#"><i class="fab fa-facebook"></i></a>
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                                    <a href="#"><i class="fab fa-instagram"></i></a>
+                                </div>
+                            </div>
+                            <div class="team-one__content">
+                                <h3 style="font-size: 30px; margin-top: -15px" class="team-one__name"><a href="#">মোঃ সিরাজুল ইসলাম বাবু</a></h3>
+                                <p style="font-size: 22px; margin-bottom: -15px" class="team-one__sub-title pt-3">সহকারী-সম্পাদক</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->
+                </div>                
+            </div>
+        </section>
+        <section class="team-carousel-page">
+            <div style="margin-top: -150px;" class="section-title text-center">
+                <!-- <span class="section-title__tagline">আমাদের সংগঠনের</span> -->
+                <h2 class="section-title__title">শিক্ষা বিষয়ক সম্পাদকদের তালিকা</h2>
+            </div>        
+            <div class="container">
+                <div class="team-carousel thm-owl__carousel owl-theme owl-carousel carousel-dot-style" data-owl-options='{
+                    "items": 3,
+                    "margin": 30,
+                    "smartSpeed": 700,
+                    "loop":true,
+                    "autoplay": 8000,
+                    "nav":false,
+                    "dots":true,
+                    "navText": ["<span class=\"fa fa-angle-left\"></span>","<span class=\"fa fa-angle-right\"></span>"],
+                    "responsive":{
+                        "0":{
+                            "items":1
+                        },
+                        "768":{
+                            "items":2
+                        },
+                        "992":{
+                            "items": 3
+                        }
+                    }
+                }'>
+                    <!--Team One Single Start-->
+                    <div class="item">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/members/samiul hasan.jpg" alt="মোঃ সামিউল হাসান">
+                                <div class="team-one__social">
+                                    <a href="#"><i class="fab fa-facebook"></i></a>
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                                    <a href="#"><i class="fab fa-instagram"></i></a>
+                                </div>
+                            </div>
+                            <div class="team-one__content">
+                                <h3 style="font-size: 30px; margin-top: -15px" class="team-one__name"><a href="#">মোঃ সামিউল হাসান</a></h3>
+                                <p style="font-size: 22px; margin-bottom: -15px" class="team-one__sub-title pt-3">সহকারী-সম্পাদক</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->     
+                    <!--Team One Single Start-->
+                    <div class="item">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/members/maidul islam.jpg" alt="মোঃ মাইদুল ইসলাম">
+                                <div class="team-one__social">
+                                    <a href="#"><i class="fab fa-facebook"></i></a>
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                                    <a href="#"><i class="fab fa-instagram"></i></a>
+                                </div>
+                            </div>
+                            <div class="team-one__content">
+                                <h3 style="font-size: 30px; margin-top: -15px" class="team-one__name"><a href="#">মোঃ মাইদুল ইসলাম</a></h3>
+                                <p style="font-size: 22px; margin-bottom: -15px" class="team-one__sub-title pt-3">সহকারী-সম্পাদক</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->     
+                    <div class="item">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/members/abul kalam azad.jpg" alt="মোঃ আবুল কালাম আজাদ">
+                                <div class="team-one__social">
+                                    <a href="#"><i class="fab fa-facebook"></i></a>
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                                    <a href="#"><i class="fab fa-instagram"></i></a>
+                                </div>
+                            </div>
+                            <div class="team-one__content">
+                                <h3 style="font-size: 30px; margin-top: -15px" class="team-one__name"><a href="#">মোঃ আবুল কালাম আজাদ</a></h3>
+                                <p style="font-size: 22px; margin-bottom: -15px" class="team-one__sub-title pt-3">সহকারী-সম্পাদক</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->
+                    <!--Team One Single End-->     
+                    <div class="item">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/members/hafijur.jpg" alt="মোঃ হাফিজুর রহমান">
+                                <div class="team-one__social">
+                                    <a href="#"><i class="fab fa-facebook"></i></a>
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                                    <a href="#"><i class="fab fa-instagram"></i></a>
+                                </div>
+                            </div>
+                            <div class="team-one__content">
+                                <h3 style="font-size: 30px; margin-top: -15px" class="team-one__name"><a href="#">মোঃ হাফিজুর রহমান</a></h3>
+                                <p style="font-size: 22px; margin-bottom: -15px" class="team-one__sub-title pt-3">সহকারী-সম্পাদক</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->
+                </div>                
+            </div>
+        </section>
+        <section class="team-carousel-page">
+            <div style="margin-top: -150px;" class="section-title text-center">
+                <!-- <span class="section-title__tagline">আমাদের সংগঠনের</span> -->
+                <h2 class="section-title__title">স্বাস্থ্য ও চিকিৎসা বিষয়ক সম্পাদকদের তালিকা</h2>
+            </div>        
+            <div class="container">
+                <div class="team-carousel thm-owl__carousel owl-theme owl-carousel carousel-dot-style" data-owl-options='{
+                    "items": 3,
+                    "margin": 30,
+                    "smartSpeed": 700,
+                    "loop":true,
+                    "autoplay": 8000,
+                    "nav":false,
+                    "dots":true,
+                    "navText": ["<span class=\"fa fa-angle-left\"></span>","<span class=\"fa fa-angle-right\"></span>"],
+                    "responsive":{
+                        "0":{
+                            "items":1
+                        },
+                        "768":{
+                            "items":2
+                        },
+                        "992":{
+                            "items": 3
+                        }
+                    }
+                }'>
+                    <!--Team One Single Start-->
+                    <div class="item">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/members/nurealom.png" alt="মোঃ নূরে-আলম সিদ্দীক">
+                                <div class="team-one__social">
+                                    <a href="#"><i class="fab fa-facebook"></i></a>
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                                    <a href="#"><i class="fab fa-instagram"></i></a>
+                                </div>
+                            </div>
+                            <div class="team-one__content">
+                                <h3 style="font-size: 30px; margin-top: -15px" class="team-one__name"><a href="#">মোঃ নূরে-আলম সিদ্দীক</a></h3>
+                                <p style="font-size: 22px; margin-bottom: -15px" class="team-one__sub-title pt-3">প্রধান-সম্পাদক</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->                         
+                </div>                
+            </div>
+        </section>
+        <!--Team One End-->
+        <section class="team-carousel-page">
+            <div style="margin-top: -150px;" class="section-title text-center">
+                <!-- <span class="section-title__tagline">আমাদের সংগঠনের</span> -->
+                <h2 class="section-title__title">ত্রাণ ও দূর্যোগ পূনর্বাসন বিষয়ক সম্পাদকদের তালিকা</h2>
+            </div>        
+            <div class="container">
+                <div class="team-carousel thm-owl__carousel owl-theme owl-carousel carousel-dot-style" data-owl-options='{
+                    "items": 3,
+                    "margin": 30,
+                    "smartSpeed": 700,
+                    "loop":true,
+                    "autoplay": 8000,
+                    "nav":false,
+                    "dots":true,
+                    "navText": ["<span class=\"fa fa-angle-left\"></span>","<span class=\"fa fa-angle-right\"></span>"],
+                    "responsive":{
+                        "0":{
+                            "items":1
+                        },
+                        "768":{
+                            "items":2
+                        },
+                        "992":{
+                            "items": 3
+                        }
+                    }
+                }'>
+                    <!--Team One Single Start-->
+                    <div class="item">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/members/nuralom.jpg" alt="মোঃ নূর আলম">
+                                <div class="team-one__social">
+                                    <a href="#"><i class="fab fa-facebook"></i></a>
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                                    <a href="#"><i class="fab fa-instagram"></i></a>
+                                </div>
+                            </div>
+                            <div class="team-one__content">
+                                <h3 style="font-size: 30px; margin-top: -15px" class="team-one__name"><a href="#">মোঃ নূর আলম</a></h3>
+                                <p style="font-size: 22px; margin-bottom: -15px" class="team-one__sub-title pt-3">প্রধান-সম্পাদক</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->     
+                    <!--Team One Single Start-->
+                    <div class="item">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/members/mominul.jpg" alt="মোঃ মমিনুল ইসলাম">
+                                <div class="team-one__social">
+                                    <a href="#"><i class="fab fa-facebook"></i></a>
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                                    <a href="#"><i class="fab fa-instagram"></i></a>
+                                </div>
+                            </div>
+                            <div class="team-one__content">
+                                <h3 style="font-size: 30px; margin-top: -15px" class="team-one__name"><a href="#">মোঃ মমিনুল ইসলাম</a></h3>
+                                <p style="font-size: 22px; margin-bottom: -15px" class="team-one__sub-title pt-3">সহকারী-সম্পাদক</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->     
+                    <div class="item">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/members/rana.jpg" alt="মোঃ রানা">
+                                <div class="team-one__social">
+                                    <a href="#"><i class="fab fa-facebook"></i></a>
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                                    <a href="#"><i class="fab fa-instagram"></i></a>
+                                </div>
+                            </div>
+                            <div class="team-one__content">
+                                <h3 style="font-size: 30px; margin-top: -15px" class="team-one__name"><a href="#">মোঃ রানা</a></h3>
+                                <p style="font-size: 22px; margin-bottom: -15px" class="team-one__sub-title pt-3">সহকারী-সম্পাদক</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->                    
+                </div>                
+            </div>
+        </section>
+
+
+        <section class="team-carousel-page">
+            <div style="margin-top: -150px;" class="section-title text-center">
+                <!-- <span class="section-title__tagline">আমাদের সংগঠনের</span> -->
+                <h2 class="section-title__title">প্রচার ও প্রকাশনা বিষয়ক সম্পাদকদের তালিকা</h2>
+            </div>        
+            <div class="container">
+                <div class="team-carousel thm-owl__carousel owl-theme owl-carousel carousel-dot-style" data-owl-options='{
+                    "items": 3,
+                    "margin": 30,
+                    "smartSpeed": 700,
+                    "loop":true,
+                    "autoplay": 8000,
+                    "nav":false,
+                    "dots":true,
+                    "navText": ["<span class=\"fa fa-angle-left\"></span>","<span class=\"fa fa-angle-right\"></span>"],
+                    "responsive":{
+                        "0":{
+                            "items":1
+                        },
+                        "768":{
+                            "items":2
+                        },
+                        "992":{
+                            "items": 3
+                        }
+                    }
+                }'>
+                    <!--Team One Single Start-->
+                    <div class="item">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/members/abdul alim.jpg" alt="আব্দুল আলিম">
+                                <div class="team-one__social">
+                                    <a href="#"><i class="fab fa-facebook"></i></a>
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                                    <a href="#"><i class="fab fa-instagram"></i></a>
+                                </div>
+                            </div>
+                            <div class="team-one__content">
+                                <h3 style="font-size: 30px; margin-top: -15px" class="team-one__name"><a href="#">আব্দুল আলিম</a></h3>
+                                <p style="font-size: 22px; margin-bottom: -15px" class="team-one__sub-title pt-3">প্রধান-সম্পাদক</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->                         
+                    <!--Team One Single Start-->
+                    <div class="item">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/members/nuralom_add.jpg" alt="মোঃ নুর আলম">
+                                <div class="team-one__social">
+                                    <a href="#"><i class="fab fa-facebook"></i></a>
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                                    <a href="#"><i class="fab fa-instagram"></i></a>
+                                </div>
+                            </div>
+                            <div class="team-one__content">
+                                <h3 style="font-size: 30px; margin-top: -15px" class="team-one__name"><a href="#">মোঃ নুর আলম</a></h3>
+                                <p style="font-size: 22px; margin-bottom: -15px" class="team-one__sub-title pt-3">সহকারী-সম্পাদক</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->                         
+                </div>                
+            </div>
+        </section>
+
+        <section class="team-carousel-page">
+            <div style="margin-top: -150px;" class="section-title text-center">
+                <!-- <span class="section-title__tagline">আমাদের সংগঠনের</span> -->
+                <h2 class="section-title__title">কৃষি উন্নয়ন বিষয়ক সম্পাদকদের তালিকা</h2>
+            </div>        
+            <div class="container">
+                <div class="team-carousel thm-owl__carousel owl-theme owl-carousel carousel-dot-style" data-owl-options='{
+                    "items": 3,
+                    "margin": 30,
+                    "smartSpeed": 700,
+                    "loop":true,
+                    "autoplay": 8000,
+                    "nav":false,
+                    "dots":true,
+                    "navText": ["<span class=\"fa fa-angle-left\"></span>","<span class=\"fa fa-angle-right\"></span>"],
+                    "responsive":{
+                        "0":{
+                            "items":1
+                        },
+                        "768":{
+                            "items":2
+                        },
+                        "992":{
+                            "items": 3
+                        }
+                    }
+                }'>
+                    <!--Team One Single Start-->
+                    <div class="item">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/members/md-shohid.png" alt="মোঃ শহিদ প্রামাণিক">
+                                <div class="team-one__social">
+                                    <a href="#"><i class="fab fa-facebook"></i></a>
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                                    <a href="#"><i class="fab fa-instagram"></i></a>
+                                </div>
+                            </div>
+                            <div class="team-one__content">
+                                <h3 style="font-size: 30px; margin-top: -15px" class="team-one__name"><a href="#">মোঃ শহিদ প্রামাণিক</a></h3>
+                                <p style="font-size: 22px; margin-bottom: -15px" class="team-one__sub-title pt-3">প্রধান-সম্পাদক</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->                         
+                </div>                
+            </div>
+        </section>
 
         <!-- members part end -->
 
