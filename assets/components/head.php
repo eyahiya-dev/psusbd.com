@@ -50,7 +50,7 @@
     <link rel="stylesheet" href="assets/css/oxpins-responsive.css"/>
     
     <style>
-      body, .section-title__tagline, .section-title__title, .paginate_heading,.gallery-page__title,.gallery-page__sub-title , .feature-three__title, .testimonial-three__client-name, .testimonial-three__client-sub-title, .footer-widget__title, .mobile-nav__content .main-menu__list>li>a,
+      body, .section-title__tagline, .section-title__title,.contact-one__number,.paginate_heading,.gallery-page__title,.gallery-page__sub-title , .feature-three__title, .testimonial-three__client-name, .testimonial-three__client-sub-title, .footer-widget__title, .mobile-nav__content .main-menu__list>li>a,
 .mobile-nav__content .main-menu__list>li>ul>li>a,
 .mobile-nav__content .main-menu__list>li>ul>li>ul>li>a {
           font-family: 'Bangla', Arial, sans-serif !important;

@@ -41,7 +41,7 @@
                     <li><a style="font-size: 20px;" href="#">আমাদের সম্পর্কে</a></li>
                     <li><a style="font-size: 20px;" href="/notice.php">নোটিশ</a></li>
                     <li><a style="font-size: 20px;" href="#">সদস্য</a></li>
-                    <li><a style="font-size: 20px;" href="#">যোগাযোগ</a></li>
+                    <li><a style="font-size: 20px;" href="contact.php">যোগাযোগ</a></li>
                     <li><a style="font-size: 20px;" href="#">সহায়তা ও অনুদান</a></li>
                   </ul>
                 </div>

@@ -27,13 +27,13 @@
             <div class="page-header-bg" style="background-image: url(assets/images/backgrounds/page-header-bg.jpg)">
             </div>
             <div class="container">
-                <div class="page-header__inner">
+                <div class="page-header__inner mt-5">
                     <ul class="thm-breadcrumb list-unstyled">
                         <li><a style="font-size: 25px;" href="index.php">হোম</a></li>
                         <li><span>/</span></li>
                         <li style="font-size: 20px;" class="active">নোটিশ</li>
                     </ul>
-                    <h2 class=" mt-5 paginate_heading"> নোটিশ </h2>
+                    <h2 style="font-size: 50px; margin-bottom: -80px " class=" mt-5 paginate_heading"> নোটিশ </h2>
                 </div>
             </div>
         </section>
