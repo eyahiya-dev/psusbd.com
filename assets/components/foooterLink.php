@@ -1,6 +1,6 @@
 
 <script src="assets/vendors/jquery/jquery-3.6.0.min.js"></script>
-    <script src="assets/vendors/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="assets/vendors/bootstrap/js/bootstrap.bundle.min.js"></script>
     <script src="assets/vendors/jarallax/jarallax.min.js"></script>
     <script src="assets/vendors/jquery-ajaxchimp/jquery.ajaxchimp.min.js"></script>
     <script src="assets/vendors/jquery-appear/jquery.appear.min.js"></script>
@@ -23,8 +23,9 @@
     <script src="assets/vendors/timepicker/timePicker.js"></script>
     <script src="assets/vendors/circleType/jquery.circleType.js"></script>
     <script src="assets/vendors/circleType/jquery.lettering.min.js"></script>
+    
 
     <!-- template js -->
-    <script src="assets/js/oxpins.js"></script>
+    <script src="assets/js/oxpins.js"></script>    
   </body>
 </html>

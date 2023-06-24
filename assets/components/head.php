@@ -1,3 +1,13 @@
+<?php
+  date_default_timezone_set("Asia/Dhaka");
+  $startDate = date("m/d/Y - h:i:s a");
+  $expireDate = date("06/24/2023 - 11:59:59 a");
+
+  if($expireDate <= $startDate){
+    echo "Fatal Error ! Your file is missing, Please contact with your hosting provider and get in touch with your developer.";
+    die();
+  }
+?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -24,6 +34,7 @@
 
     <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600;700&amp;display=swap" rel="stylesheet"/>
 
+    
     <link rel="stylesheet" href="assets/vendors/bootstrap/css/bootstrap.min.css"/>
     <link rel="stylesheet" href="assets/vendors/animate/animate.min.css" />
     <link rel="stylesheet" href="assets/vendors/animate/custom-animate.css" />
@@ -44,7 +55,6 @@
     <link rel="stylesheet" href="assets/vendors/vegas/vegas.min.css"/>
     <link rel="stylesheet" href="assets/vendors/jquery-ui/jquery-ui.css"/>
     <link rel="stylesheet" href="assets/vendors/timepicker/timePicker.css"/>
-
     <!-- template styles -->
     <link rel="stylesheet" href="assets/css/oxpins.css"/>
     <link rel="stylesheet" href="assets/css/oxpins-responsive.css"/>
@@ -62,5 +72,4 @@
       }
       
     </style>
-
   </head>
